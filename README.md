@@ -47,7 +47,7 @@ I hope you enjoy playing this recreated version of the Snake Game as much as I e
 
 
 ### `Screenshots`  
-![Main Menu]()<img width="746" alt="MainMenuScreenShot" src="https://github.com/mac-360/Snake-Game-Python/assets/122281916/c1cd0a90-b322-4ae5-815f-4ca17a2c20fb">
+![Main Menu]()<img width="746" alt="MainMenuScreenShot" src="https://github.com/mac-360/Snake-Game-Python/assets/122281916/c1cd0a90-b322-4ae5-815f-4ca17a2c20fb">      
  
 ![Game Play](<img width="747" alt="SnakeGamePlayScreenshot" src="https://github.com/mac-360/Snake-Game-Python/assets/122281916/f750cdb1-31ac-4d18-b574-7cbbca216b69">
 )  
